@@ -22,7 +22,7 @@ The datasets can be found on Kaggle separately for [Seattle](https://www.kaggle.
 - `sklearn` to create machine learning models from dataset
 - `seaborn` to create special types of data visualizations like Heatmap
 
-I followed the steps recommended in [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) methodology to explore this dataset, perform necessary transformations, extracting features and prepare statistical model from it to estimate the booking price of the property on Airbnb.
+I followed the steps recommended in [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) methodology to explore this dataset, perform necessary transformations, extracting features and prepare data.
 
 
 ## Analysis
