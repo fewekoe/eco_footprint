@@ -42,7 +42,7 @@ The following question were tried to be answered:
 3. How did CO2 emissios per sector develop?
 4. what is the relationship of CO2 per Capita and GDP per Capita?
 
-### Conclusion
+## Conclusion
 
 1. Since the 1970's our ecolocical footprint (Demand) is higher than Earth's biocapacity (Supply)
 2. This is being reflected in the number of ecological debtors and creditors. In 1960 there were 70% creditors, a relationship which reversed to 70% debtos
@@ -51,6 +51,6 @@ The following question were tried to be answered:
 5. The amount of CO2 for Electricty and heat production has increased over the six-fold over the last 40 years stressing the importance of decarbonizing our electricity production.
 6. This is parts reflects also the strong correlation of 0.8 between CO2 emissions per capita and GDP per capita 
 
-### Acknowledgement
+## Acknowledgement
 
 A big thank you to the Global Footprint Network providing a ton of resources and great data!
