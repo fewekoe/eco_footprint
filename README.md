@@ -46,10 +46,9 @@ The following question were tried to be answered:
 
 1. Since the 1970's our ecolocical footprint (Demand) is higher than Earth's biocapacity (Supply)
 2. This is being reflected in the number of ecological debtors and creditors. In 1960 there were 70% creditors, a relationship which reversed to 70% debtos
-3. 10 Countries make up more than 60% of the ecologiocal deficit with a few countries such as Brazil and Canada being ecological creditors.
-4. Carbon emissions are the major driver of this development.
-5. The amount of CO2 for Electricty and heat production has increased over the six-fold over the last 40 years stressing the importance of decarbonizing our electricity production.
-6. This is parts reflects also the strong correlation of 0.8 between CO2 emissions per capita and GDP per capita 
+3. Carbon emissions are the major driver of this development.
+4. The amount of CO2 for Electricty and heat production has increased over the six-fold over the last 40 years stressing the importance of decarbonizing our electricity production.
+5. This part reflects also the strong correlation of 0.8 between CO2 emissions per capita and GDP per capita.
 
 ## Acknowledgement
 
