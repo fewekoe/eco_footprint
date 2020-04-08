@@ -53,4 +53,4 @@ The following question were tried to be answered:
 
 ## Acknowledgement
 
-A big thank you to the Global Footprint Network providing a ton of resources and great data!
+A big thank you to the Global Footprint Network for providing a ton of resources and great data!
